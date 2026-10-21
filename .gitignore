@@ -36,6 +36,11 @@ yarn-error.log*
 # vercel
 .vercel
 
+# sanity studio
+/sanity/node_modules
+/sanity/dist
+/sanity/.sanity
+
 # typescript
 *.tsbuildinfo
 next-env.d.ts
